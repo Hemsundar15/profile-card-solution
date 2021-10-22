@@ -26,7 +26,7 @@
     left: -15%;
     transform: translate(0, -50%);
 
-    z-index: 0;
+    z-index: 10;
 }
 
 .bg__bottom{
@@ -34,4 +34,6 @@
 
     top: 100%;
     transform: translate(75%, -35%);
+
+    z-index: 10;
 }
